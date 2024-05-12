@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "name": "my-app-server",
+    "scope": "<your-vercel-account>",
+    "builds": [
+      {
+        "src": "server/index.js",
+        "use": "@vercel/node"
+      }
+    ]
+  }
+  
