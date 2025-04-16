@@ -1,13 +1,4 @@
-You got it! Here's the complete `README.md` for your **MERN Blog** repo, written as **one single block of text**, using only:
 
-```
-```bash
-```
-```
-
-so you can **copy and paste directly into GitHub**:
-
----
 
 ```bash
 # MERN Blog
